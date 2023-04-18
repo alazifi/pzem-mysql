@@ -17,10 +17,10 @@ const char* ssid     = "xxxxxx";
 const char* password = "xxxxxx";
 
 // Domain server hosting
-const char* serverName = "http://www.xxxxx.xxx/xxxxxxxx.php";
+const char* serverName = "http://www.xxxxx.xxx/xxxxxxxx.php"; //example: "https://www.rizzsmartenergy.com/post-my-data.php"
 
 //Kode API untuk akses MySQL
-String apiKeyValue = "xxxxxx";
+String apiKeyValue = "y0urAPI6x4!";
 
 String homeName = "My Home";
 
